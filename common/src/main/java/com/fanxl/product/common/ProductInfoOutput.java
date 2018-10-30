@@ -1,4 +1,4 @@
-package com.fanxl.product.comon;
+package com.fanxl.product.common;
 
 import lombok.Data;
 

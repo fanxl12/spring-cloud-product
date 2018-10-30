@@ -20,7 +20,9 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-/target
+server/target
+common/target
+client/target
 
 # Compiled class file
 *.class

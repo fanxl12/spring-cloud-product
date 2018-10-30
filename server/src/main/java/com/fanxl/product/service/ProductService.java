@@ -1,8 +1,8 @@
 package com.fanxl.product.service;
 
 
-import com.fanxl.product.comon.DecreaseStockInput;
-import com.fanxl.product.comon.ProductInfoOutput;
+import com.fanxl.product.common.DecreaseStockInput;
+import com.fanxl.product.common.ProductInfoOutput;
 import com.fanxl.product.dataobject.ProductInfo;
 
 import java.util.List;

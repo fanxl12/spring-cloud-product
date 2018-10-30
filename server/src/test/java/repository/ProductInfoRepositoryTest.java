@@ -1,6 +1,7 @@
-package com.fanxl.product.repository;
+package repository;
 
 import com.fanxl.product.dataobject.ProductInfo;
+import com.fanxl.product.repository.ProductInfoRepository;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
